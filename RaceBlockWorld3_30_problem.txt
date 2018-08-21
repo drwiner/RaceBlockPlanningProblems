@@ -1,0 +1,56 @@
+Problem RaceBlockWorld3_30_ of Domain Unity
+--------------------------------------------
+Objects of Problem RaceBlockWorld3_30_
+orange
+blue
+red
+L0
+L1
+L2
+L3
+L4
+blockA
+blockB
+blockC
+L0A
+L1A
+L2A
+L3A
+
+Initial State of Problem RaceBlockWorld3_30_
+(at blockA L0A)
+(occupied L0A)
+(at blockB L1A)
+(occupied L1A)
+(at blockC L2A)
+(occupied L2A)
+(placeable L0A L0)
+(placeable L1A L1)
+(placeable L2A L2)
+(placeable L3A L3)
+(adjacent L0 L1)
+(adjacent L1 L0)
+(adjacent L0 L2)
+(adjacent L2 L0)
+(adjacent L0 L3)
+(adjacent L3 L0)
+(adjacent L0 L4)
+(adjacent L4 L0)
+(adjacent L1 L3)
+(adjacent L3 L1)
+(adjacent L1 L4)
+(adjacent L4 L1)
+(adjacent L2 L3)
+(adjacent L3 L2)
+(at orange L0)
+(occupied L0)
+(at blue L1)
+(occupied L1)
+(at red L2)
+(occupied L2)
+(freehands orange)
+(freehands blue)
+(freehands red)
+
+Goal State of Problem RaceBlockWorld3_30_
+(at blockA L3A)
